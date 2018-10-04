@@ -190,19 +190,25 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
-* ???
+* 21-25: [Linux Conf AU](http://linux.conf.au) - New Zealand (Christchurch)
+* 23-26: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
+* 28: [dotSwift](https://www.dotswift.io/) - France (Paris)
 
 ### February
 
-* ???
+* 02-03: [FOSDEM](https://fosdem.org/2019) - Belgium (Brussels)
+* 07-09: [Sunshine PHP](http://www.sunshinephp.com) - USA (Miami, Florida)
+* 13-15: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands (Amsterdam)
+* 21-22: [Lambda Days](http://www.lambdadays.org/lambdadays2019) - Poland (Kraków) 
+* 01: [Touraine Tech](https://touraine.tech/) - France
 
 ### March
 
-* ???
+* 11-13: [DevOps Gathering 2019](https://devops-gathering.io/) - Germany (Bochum)
 
 ### April
 
-* ???
+* 17-19: [Devoxx France](https://devoxx.fr/) - France (Paris)
 
 ### May
 
